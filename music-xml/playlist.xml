@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="playlist.xsl"?>
+<playlist>
+  <track>
+    <title>Untitled (How does it feel?)</title>
+    <artist>D'Angelo</artist>
+    <album>Voodoo</album>
+    <link>https://www.youtube.com/watch?v=6QPQtguRdDs</link>
+  </track>
+  <track>
+    <title>Hyperballad</title>
+    <artist>Bjork</artist>
+    <album>Post</album>
+    <link>https://www.youtube.com/watch?v=kye1TOlAWWw</link>
+  </track>
+  <track>
+  <title> Best to You</title>
+  <artist>Blood Orange</artist>
+  <album>Freetown Sound</album>
+  <link>https://www.youtube.com/watch?v=zQfvkowms5w_list=RDzQfvkowms5w_start_radio=1</link>
+  </track>
+  <track>
+  <title> Cannock Chase</title>
+  <artist>Labi Siffre</artist>
+  <album>Remember My Song</album>
+  <link>https://www.youtube.com/watch?v=aavxo3n8-xE_list=RDaavxo3n8-xE_start_radio=1</link>
+  </track>  
+  <track>
+  <title> Beauty School</title>
+  <artist>Deftones</artist>
+  <album>Diamond Eyes</album>
+  <link>https://www.youtube.com/watch?v=2bK4aeahcXc_list=RD2bK4aeahcXc_start_radio=1</link>
+  </track>  
+  <track> 
+  <title> I Caught Myself</title>
+  <artist>Paramore</artist>
+  <album>Riot!</album>
+  <link>https://www.youtube.com/watch?v=j4S4hrvDhlY_list=RDj4S4hrvDhlY_start_radio=1</link>
+  </track>  
+  <track>
+  <title> Montreal</title>
+  <artist> The Weeknd</artist>
+  <album> Echoes of Silence</album>
+  <link>https://www.youtube.com/watch?v=TV1r4m8c9SI_list=RDTV1r4m8c9SI_start_radio=1</link>
+  </track>  
+</playlist>
